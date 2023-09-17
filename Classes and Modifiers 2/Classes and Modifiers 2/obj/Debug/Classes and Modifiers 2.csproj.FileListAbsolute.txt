@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Classes and Modifiers 2\Classes and Modifiers 2\bin\Debug\Classes and Modifiers 2.exe.config
+C:\Users\User\source\repos\Classes and Modifiers 2\Classes and Modifiers 2\bin\Debug\Classes and Modifiers 2.exe
+C:\Users\User\source\repos\Classes and Modifiers 2\Classes and Modifiers 2\bin\Debug\Classes and Modifiers 2.pdb
+C:\Users\User\source\repos\Classes and Modifiers 2\Classes and Modifiers 2\obj\Debug\Classes and Modifiers 2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Classes and Modifiers 2\Classes and Modifiers 2\obj\Debug\Classes and Modifiers 2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Classes and Modifiers 2\Classes and Modifiers 2\obj\Debug\Classes and Modifiers 2.exe
+C:\Users\User\source\repos\Classes and Modifiers 2\Classes and Modifiers 2\obj\Debug\Classes and Modifiers 2.pdb
