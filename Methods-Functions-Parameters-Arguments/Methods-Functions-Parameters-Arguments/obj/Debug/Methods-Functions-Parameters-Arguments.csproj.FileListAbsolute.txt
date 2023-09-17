@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Methods-Functions-Parameters-Arguments\Methods-Functions-Parameters-Arguments\bin\Debug\Methods-Functions-Parameters-Arguments.exe.config
+C:\Users\User\source\repos\Methods-Functions-Parameters-Arguments\Methods-Functions-Parameters-Arguments\bin\Debug\Methods-Functions-Parameters-Arguments.exe
+C:\Users\User\source\repos\Methods-Functions-Parameters-Arguments\Methods-Functions-Parameters-Arguments\bin\Debug\Methods-Functions-Parameters-Arguments.pdb
+C:\Users\User\source\repos\Methods-Functions-Parameters-Arguments\Methods-Functions-Parameters-Arguments\obj\Debug\Methods-Functions-Parameters-Arguments.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods-Functions-Parameters-Arguments\Methods-Functions-Parameters-Arguments\obj\Debug\Methods-Functions-Parameters-Arguments.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods-Functions-Parameters-Arguments\Methods-Functions-Parameters-Arguments\obj\Debug\Methods-Functions-Parameters-Arguments.exe
+C:\Users\User\source\repos\Methods-Functions-Parameters-Arguments\Methods-Functions-Parameters-Arguments\obj\Debug\Methods-Functions-Parameters-Arguments.pdb

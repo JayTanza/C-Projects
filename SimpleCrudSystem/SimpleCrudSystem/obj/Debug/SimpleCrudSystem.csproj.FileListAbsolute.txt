@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SimpleCrudSystem\SimpleCrudSystem\bin\Debug\SimpleCrudSystem.exe.config
+C:\Users\User\source\repos\SimpleCrudSystem\SimpleCrudSystem\bin\Debug\SimpleCrudSystem.exe
+C:\Users\User\source\repos\SimpleCrudSystem\SimpleCrudSystem\bin\Debug\SimpleCrudSystem.pdb
+C:\Users\User\source\repos\SimpleCrudSystem\SimpleCrudSystem\obj\Debug\SimpleCrudSystem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SimpleCrudSystem\SimpleCrudSystem\obj\Debug\SimpleCrudSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleCrudSystem\SimpleCrudSystem\obj\Debug\SimpleCrudSystem.exe
+C:\Users\User\source\repos\SimpleCrudSystem\SimpleCrudSystem\obj\Debug\SimpleCrudSystem.pdb

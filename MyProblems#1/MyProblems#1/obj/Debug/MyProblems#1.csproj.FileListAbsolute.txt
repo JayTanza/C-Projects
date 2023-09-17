@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MyProblems#1\MyProblems#1\bin\Debug\MyProblems#1.exe.config
+C:\Users\User\source\repos\MyProblems#1\MyProblems#1\bin\Debug\MyProblems#1.exe
+C:\Users\User\source\repos\MyProblems#1\MyProblems#1\bin\Debug\MyProblems#1.pdb
+C:\Users\User\source\repos\MyProblems#1\MyProblems#1\obj\Debug\MyProblems#1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MyProblems#1\MyProblems#1\obj\Debug\MyProblems#1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyProblems#1\MyProblems#1\obj\Debug\MyProblems#1.exe
+C:\Users\User\source\repos\MyProblems#1\MyProblems#1\obj\Debug\MyProblems#1.pdb
