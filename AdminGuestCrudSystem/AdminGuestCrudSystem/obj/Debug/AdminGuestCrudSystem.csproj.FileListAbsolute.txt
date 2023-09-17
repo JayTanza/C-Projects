@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AdminGuestCrudSystem\AdminGuestCrudSystem\bin\Debug\AdminGuestCrudSystem.exe.config
+C:\Users\User\source\repos\AdminGuestCrudSystem\AdminGuestCrudSystem\bin\Debug\AdminGuestCrudSystem.exe
+C:\Users\User\source\repos\AdminGuestCrudSystem\AdminGuestCrudSystem\bin\Debug\AdminGuestCrudSystem.pdb
+C:\Users\User\source\repos\AdminGuestCrudSystem\AdminGuestCrudSystem\obj\Debug\AdminGuestCrudSystem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AdminGuestCrudSystem\AdminGuestCrudSystem\obj\Debug\AdminGuestCrudSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdminGuestCrudSystem\AdminGuestCrudSystem\obj\Debug\AdminGuestCrudSystem.exe
+C:\Users\User\source\repos\AdminGuestCrudSystem\AdminGuestCrudSystem\obj\Debug\AdminGuestCrudSystem.pdb

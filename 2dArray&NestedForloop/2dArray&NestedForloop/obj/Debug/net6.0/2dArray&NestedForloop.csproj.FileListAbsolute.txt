@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\bin\Debug\net6.0\2dArray&NestedForloop.exe
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\bin\Debug\net6.0\2dArray&NestedForloop.deps.json
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\bin\Debug\net6.0\2dArray&NestedForloop.runtimeconfig.json
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\bin\Debug\net6.0\2dArray&NestedForloop.dll
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\bin\Debug\net6.0\2dArray&NestedForloop.pdb
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\obj\Debug\net6.0\2dArray&NestedForloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\obj\Debug\net6.0\2dArray&NestedForloop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\obj\Debug\net6.0\2dArray&NestedForloop.AssemblyInfo.cs
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\obj\Debug\net6.0\2dArray&NestedForloop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\obj\Debug\net6.0\2dArray&NestedForloop.dll
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\obj\Debug\net6.0\refint\2dArray&NestedForloop.dll
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\obj\Debug\net6.0\2dArray&NestedForloop.pdb
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\obj\Debug\net6.0\2dArray&NestedForloop.genruntimeconfig.cache
+C:\Users\User\source\repos\2dArray&NestedForloop\2dArray&NestedForloop\obj\Debug\net6.0\ref\2dArray&NestedForloop.dll

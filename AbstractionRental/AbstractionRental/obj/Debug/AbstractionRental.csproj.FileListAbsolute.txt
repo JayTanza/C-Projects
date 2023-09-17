@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AbstractionRental\AbstractionRental\bin\Debug\AbstractionRental.exe.config
+C:\Users\User\source\repos\AbstractionRental\AbstractionRental\bin\Debug\AbstractionRental.exe
+C:\Users\User\source\repos\AbstractionRental\AbstractionRental\bin\Debug\AbstractionRental.pdb
+C:\Users\User\source\repos\AbstractionRental\AbstractionRental\obj\Debug\AbstractionRental.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AbstractionRental\AbstractionRental\obj\Debug\AbstractionRental.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AbstractionRental\AbstractionRental\obj\Debug\AbstractionRental.exe
+C:\Users\User\source\repos\AbstractionRental\AbstractionRental\obj\Debug\AbstractionRental.pdb

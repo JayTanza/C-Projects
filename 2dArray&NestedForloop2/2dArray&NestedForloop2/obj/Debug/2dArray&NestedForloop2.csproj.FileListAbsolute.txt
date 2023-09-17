@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\2dArray&NestedForloop2\2dArray&NestedForloop2\bin\Debug\2dArray&NestedForloop2.exe.config
+C:\Users\User\source\repos\2dArray&NestedForloop2\2dArray&NestedForloop2\bin\Debug\2dArray&NestedForloop2.exe
+C:\Users\User\source\repos\2dArray&NestedForloop2\2dArray&NestedForloop2\bin\Debug\2dArray&NestedForloop2.pdb
+C:\Users\User\source\repos\2dArray&NestedForloop2\2dArray&NestedForloop2\obj\Debug\2dArray&NestedForloop2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\2dArray&NestedForloop2\2dArray&NestedForloop2\obj\Debug\2dArray&NestedForloop2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2dArray&NestedForloop2\2dArray&NestedForloop2\obj\Debug\2dArray&NestedForloop2.exe
+C:\Users\User\source\repos\2dArray&NestedForloop2\2dArray&NestedForloop2\obj\Debug\2dArray&NestedForloop2.pdb
